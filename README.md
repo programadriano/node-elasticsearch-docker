@@ -1,5 +1,12 @@
-﻿# node-express
-Projeto criado para demonstrar como podemos criar uma API com uma estrutura legal em 10 passos ;) 
+﻿# node-eslasticsearch-docker
 
-Link do post:
-https://goo.gl/zMwY28 
+Projeto criado para demonstrar como utilizar o Elasticsearch com Node.js em um ambiente com Docker.
+
+Exemplo de post:
+
+{
+	
+	"firstName":"nome",
+	"lastName":"sobrenome",
+   	"age":idade
+}
